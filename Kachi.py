@@ -91,8 +91,8 @@ def masuk():
 	os.system('clear')
 	print logo
 	print "\033[1;97m ╔                                     ╗"
-	print "\033[1;97m  [\033[1;97m01\033[1;97m]\033[1;96m\033[1;97m Login Menggunakan Token Facebook"
-	print "\033[1;97m  [\033[1;91m00\033[1;97m]\033[1;96m\033[1;97m Keluar"
+	print "\033[1;97m  [\033[1;97m01\033[1;97m]\033[1;96m\033[1;97m Login With Token Facebook"
+	print "\033[1;97m  [\033[1;91m00\033[1;97m]\033[1;96m\033[1;97m Logout"
 	print "\033[1;97m ╚                                     ╝"
 	pilih_masuk()
 
